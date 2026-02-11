@@ -1,2 +1,2 @@
-# BCHY34.github.io
+# http-lab1.github.io
 Personal Website
